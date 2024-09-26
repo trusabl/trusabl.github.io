@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trusabl.github.io/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/app/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/assets/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/css/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/data/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/includes/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/item/sitemap.trusabl.gz
+Sitemap: https://trusabl.github.io/src/sitemap.trusabl.gz
